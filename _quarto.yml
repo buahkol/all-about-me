@@ -4,3 +4,7 @@ project:
 website:
   title: "Dunia Ku"
   repo-url: https://github.com/buahkol/all-about-me
+
+format:
+  html:
+    theme: cosmo
