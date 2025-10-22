@@ -107,12 +107,10 @@ Itulah sebabnya saya tertarik pada proyek atau posisi yang memungkinkan saya men
 
 > Ganti tanda [ ] dengan tautan/berkas Anda.
 
-* [ ] Silabus & rubrik II‑2100
-* [ ] Modul/website kelas & bank soal
-* [ ] Khotbah/renungan & materi sarasehan
-* [ ] Publikasi/SLR & proposal riset (GRACE, dsb.)
-* [ ] Novel/lirik & materi kreatif
-* [ ] Pipeline otomasi (Quarto/GitHub/Obsidian)
+* [<https://ii-2100.github.io/2025_KIPP/asesmen/UTS-4-My-SHAPE/my_shape_short_2.pdf>] Silabus & rubrik II‑2100
+* [<https://selfdeterminationtheory.org/intrinsic-motivation-inventory/>] IMI Test
+* [<https://www.16personalities.com/free-personality-test>] Personality 16 Test
+* [<https://www.viacharacter.org/surveys/takesurvey>] VIA Test
 
 ---
 
