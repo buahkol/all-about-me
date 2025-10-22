@@ -12,10 +12,9 @@ jobs:
       - uses: quarto-dev/quarto-actions/setup@v2
       - name: Render Quarto Project
         run: quarto render --to html
-      - name: Install TinyTeX
-        run: quarto install tinytex
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          publish_dir: ./_site
+
