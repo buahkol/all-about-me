@@ -12,6 +12,8 @@ jobs:
       - uses: quarto-dev/quarto-actions/setup@v2
       - name: Render Quarto Project
         run: quarto render
+      - name: Install TinyTeX
+        run: quarto install tinytex
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
